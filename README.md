@@ -4,7 +4,7 @@
 
 ```shell
 # toggle pause/start
-osascript pause-youtube.applescript
+$ osascript pause-youtube.applescript
 # forward 10 sec
 $ osascript forward-youtube.applescript
 # rewind 10 sec
